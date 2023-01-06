@@ -1,10 +1,8 @@
 <template>
-  <div>
-    <h2>About</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, aut commodi dolorum ea
-      eos error obcaecati provident quaerat quas quasi suscipit vel. Beatae fuga in nam nostrum quis, reprehenderit veniam!</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, aut commodi dolorum ea
-      eos error obcaecati provident quaerat quas quasi suscipit vel. Beatae fuga in nam nostrum quis, reprehenderit veniam!</p>
+  <div class="container text-center">
+    <h2>Just a simple about page.</h2>
+    <h1>No contact info.</h1>
+    <NuxtLink class="btn my-4 text-xl" to="/">Go back home</NuxtLink>
   </div>
 </template>
 
